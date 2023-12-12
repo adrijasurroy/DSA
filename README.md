@@ -6,5 +6,5 @@
 #### Queues: A linear data structure that follows the First-In-First-Out (FIFO) principle.
 #### Trees: A hierarchical data structure with a root element and child elements.
 #### Graphs: A collection of nodes connected by edges.
-### This is a curated repository with DSA questions for interview preparation.
-### Some of these have been asked during my interview with Salesforce, Amazon, Cisco, Rakuten..
+## This is a curated repository with DSA questions for interview preparation.
+## Some of these have been asked during my interview with Salesforce, Amazon, Cisco, Rakuten..
