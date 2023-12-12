@@ -1,3 +1,5 @@
+# Creating a BST library, which has the function next_smallest that prints the next smallest leaf in the tree. 
+
 class Node:
     def __init__(self, data):
         self.left = None
